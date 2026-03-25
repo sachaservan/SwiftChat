@@ -7,10 +7,10 @@
 ![OpenAI](https://img.shields.io/badge/API-OpenAI%20Responses-green.svg)
 
 <p>
-<img src="media/screen1.gif" width="200" />&nbsp;
-<img src="media/screen2.gif" width="200" />&nbsp;
-<img src="media/screen3.gif" width="200" />&nbsp;
-<img src="media/screen4.gif" width="200" />
+<img src="https://github.com/user-attachments/assets/98281593-6526-455c-8dc0-e67096c53fa2" width="200" />&nbsp;
+<img src="https://github.com/user-attachments/assets/1a3930c6-ab6b-4507-9fa2-a8b45fa009eb" width="200" />&nbsp;
+<img src="https://github.com/user-attachments/assets/ee6e8a93-c508-4fb2-afce-1752d1443b77" width="200" />&nbsp;
+<img src="https://github.com/user-attachments/assets/b0794ff1-3e02-4f78-9c31-5320cab58664" width="200" />
 </p>
 
 ## Overview
