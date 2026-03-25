@@ -2,7 +2,7 @@
 <p><h4>A production-ready iOS chat template powered by the OpenAI Responses API, built with SwiftUI</h4></p>
 
 ![Swift](https://img.shields.io/badge/Swift-5.0+-orange.svg)
-![Platform](https://img.shields.io/badge/Platform-iOS%2026.2+-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-iOS%2018+-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)
 ![OpenAI](https://img.shields.io/badge/API-OpenAI%20Responses-green.svg)
 
@@ -39,7 +39,7 @@ Use it as a starting point for your own AI-powered chat app, or as a reference f
 ### Prerequisites
 
 - Xcode 26+
-- iOS 26.2+ deployment target
+- iOS 18+ deployment target
 - An OpenAI API key (or any OpenAI-compatible API)
 
 ### Setup
@@ -56,8 +56,6 @@ Use it as a starting point for your own AI-powered chat app, or as a reference f
    ```
 
 3. **Run the app** on a simulator or device. On first launch, you'll be prompted to enter your API key.
-
-That's it. No additional configuration needed.
 
 ### Configuration
 
@@ -180,8 +178,8 @@ All dependencies are managed via Swift Package Manager and resolve automatically
 
 ## Requirements
 
-- iOS 26.2+
-- Xcode 26+
+- iOS 18.0+
+- Xcode 16+
 - Swift 5.0+
 
 ## License
