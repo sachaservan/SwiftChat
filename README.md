@@ -170,8 +170,8 @@ ModelType(
 
 | Package | Purpose |
 |---------|---------|
-| [OpenAI](https://github.com/tinfoilsh/openai-swift-fork) | OpenAI API client with Responses API + streaming support |
-| [Textual](https://github.com/tinfoilsh/textual) | Markdown/rich text rendering for SwiftUI |
+| [OpenAI](https://github.com/tinfoilsh/openai-swift-fork) | OpenAI API client with Responses API + streaming support (Tinfoil fork) |
+| [Textual](https://github.com/tinfoilsh/textual) | Markdown/rich text rendering for SwiftUI (Tinfoil fork) |
 | [SwiftMath](https://github.com/mgriebling/SwiftMath) | Native LaTeX math rendering |
 
 All dependencies are managed via Swift Package Manager and resolve automatically when you open the project.
